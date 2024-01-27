@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.404" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-01-27T09:15:12" tests="0" file="cypress/e2e/user.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Testing the Swagger Petstore" timestamp="2024-01-27T09:15:12" tests="1" time="0.498" failures="0">
+    <testcase name="Testing the Swagger Petstore Creates list of users with given input array" time="0.494" classname="Creates list of users with given input array">
+    </testcase>
+  </testsuite>
+  <testsuite name="Logs user into the system" timestamp="2024-01-27T09:15:12" tests="1" time="0.208" failures="0">
+    <testcase name="Logs user into the system Should login user" time="0.174" classname="Should login user">
+    </testcase>
+  </testsuite>
+  <testsuite name="Should update user" timestamp="2024-01-27T09:15:12" tests="1" time="0.469" failures="0">
+    <testcase name="Should update user Should update user" time="0.448" classname="Should update user">
+    </testcase>
+  </testsuite>
+  <testsuite name="Should delete user" timestamp="2024-01-27T09:15:13" tests="1" time="0.198" failures="0">
+    <testcase name="Should delete user Should delete user" time="0.172" classname="Should delete user">
+    </testcase>
+  </testsuite>
+</testsuites>
